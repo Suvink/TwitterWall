@@ -8,30 +8,22 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
-    <title>SFD - UCSC</title>
+    <title>Twitter Wall</title>
 </head>
 
-<body>
-    <h1>Twitter Wall</h1>
-    <button onclick="search();">Clickme </button>
-
-    <div class="row" style="padding: 5rem" id="contentRow">
-    </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
+<body onload="search();">
+    <div class="row" style="padding: 5rem" id="contentRow"></div>
     <script src="js/script.js"></script>
     <script src="js/tweetjs.js"></script>
+
+    <footer>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
+                <p class="h6">Made with &hearts; by <a class="text-green ml-2" href="https://www.github.com/suvink"
+                    target="_blank">SuvinK</a></p>
+            </div>
+        </div>
+    </footer>
 </body>
 
 </html>
