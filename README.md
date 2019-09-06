@@ -22,7 +22,7 @@ Change the following line and put a keyword you prefer.
     TweetJs.Search("YOUR_KEYWORD_HERE",
 
 **Note:** 
-index.php file is to host this site on Heroku as Heroku doesnt support direct HTML hosting. Remove index.php and rename hello.html to index.html to host the site directly.
+heroku.php file is to host this site on Heroku as Heroku doesnt support direct HTML hosting. Rename index.html to main.html and heroku.php to index.php to host the site on Heroku.
 
 ## Disclaimer
 
