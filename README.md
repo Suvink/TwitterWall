@@ -2,6 +2,7 @@
 # TwitterWall
 
 A simple Twitter wall which displays tweets of a certain #hashtag!
+
 ![enter image description here](https://img.shields.io/badge/-HTML-orange) ![enter image description here](https://img.shields.io/badge/-Javascript-blue) ![enter image description here](https://img.shields.io/badge/-CSS-green)
 ![enter image description here](https://img.shields.io/twitter/url/https/twitter.com/tikirimaarie?label=Twitter&style=social)
  
